@@ -1,4 +1,4 @@
-# pablosdlm.github.io (Pablo Sainz de la Maza Rodríguez)
+# pablosdlm.github.io
 > Repositorio con los ejercicios resueltos
 ## Unidad 1
 * [Repositorio 1](https://github.com/pablosdlm/prueba2_Pablo_SainzdelaMaza)
