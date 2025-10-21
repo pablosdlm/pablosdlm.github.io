@@ -6,4 +6,4 @@ Repositorio con los ejercicios resueltos
     * [Ejercicio 2](https://github.com/pablosdlm/prueba2_Pablo_SainzdelaMaza/blob/master/ejercicio2.md)
 * [Repositorio 2](https://github.com/pablosdlm/prueba_Pablo_SainzdelaMaza)
     * [Ejercicio 3](https://github.com/pablosdlm/prueba_Pablo_SainzdelaMaza/blob/master/ejercicio3.md)
-    * [Ejercicio 4](https://github.com/pablosdlm/prueba_Pablo_SainzdelaMaza/blob/master/jercicio4.md)
+    * [Ejercicio 4](https://github.com/pablosdlm/prueba_Pablo_SainzdelaMaza/blob/master/ejercicio4.md)
